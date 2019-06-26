@@ -1,0 +1,8 @@
+wechat:
+  # 企业微信 
+  work:
+    emp:
+      qrcode: https://dz.service.qingger.cn
+  # 钱包支付
+  pay:
+    domain: https://pay.service.qingger.cn
