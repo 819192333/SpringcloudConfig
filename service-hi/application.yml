@@ -5,4 +5,4 @@ wechat:
       qrcode: https://dz.service.qingger.cn
   # 钱包支付
   pay:
-    domain: https://www.baidu.com
+    domain: www.baidu.com
