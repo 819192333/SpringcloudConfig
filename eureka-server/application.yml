@@ -9,5 +9,5 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     serviceUrl:
-      defaultZone: http://registry.server:8101/eureka/
+      defaultZone: http://127.0.0.1:8101/eureka/
 
