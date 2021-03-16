@@ -14,6 +14,6 @@ eureka:
     fetch-registry: false
     #Eureka服务器的地址，类型为HashMap，默认的Key为 defaultZone；默认的Value为 http://localhost:8761/eureka
     #如果服务注册中心为高可用集群时，多个注册中心地址以逗号分隔
-    serviceUrl:
-      defaultZone: http://localhost:8100/eureka/
+    #serviceUrl:
+    #  defaultZone: http://localhost:8100/eureka/
 
