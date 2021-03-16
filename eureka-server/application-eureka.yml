@@ -3,7 +3,7 @@ server:
 eureka:
   instance:
     #应用实例主机名(因为要做高可用注册中心,所以要和eureka-server-availability的配置文件区分开来)
-    hostname: localhost
+    hostname: james1
     #客户端在注册时使用自己的IP而不是主机名，默认：false
     prefer-ip-address: false
     instance-id: ${spring.application.name}:${spring.cloud.client.ip-address}:${server.port}
